@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="zIosProgressBarStyle" format="reference" />
+
+    <declare-styleable name="ZIosProgressBar">
+        <attr name="barColor" format="color"/>
+        <attr name="barDrawable" format="reference"/>
+    </declare-styleable>
+
+</resources>
